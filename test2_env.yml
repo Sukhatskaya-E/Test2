@@ -1,0 +1,10 @@
+name: test2_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - bwa-mem2
+  - multiqc
+  - samtools
+  - picard
